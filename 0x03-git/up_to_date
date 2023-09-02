@@ -1,2 +1,1 @@
-"git checkout master"
-"git branch -m master main"
+git pull
